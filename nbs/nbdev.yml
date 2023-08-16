@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "testrepo"
+  site-url: "https://amaiya.github.io/testrepo"
+  description: "A test repo to test stuff"
+  repo-branch: main
+  repo-url: "https://github.com/amaiya/testrepo"
